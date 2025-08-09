@@ -52,7 +52,7 @@ Which branche sold more products than the average across all branches?
 
 ## Product Performance
 
-Which product lines have the highest total quantity sold?
+Which product lines have the highest total quantity sold in each branch?
 
 What are all product lines ranked by total revenue and VAT?
 
