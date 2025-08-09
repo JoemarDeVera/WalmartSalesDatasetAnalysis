@@ -62,7 +62,6 @@ What is the overall average sales across all product lines?
 
 How are product lines classified as "Good" or "Bad" based on whether their sales are greater than the overall average?
 
-What is the average rating for each product line?
 
 ## Sales and Revenue
 
