@@ -48,7 +48,7 @@ How many unique branches does the data have?
 
 Which city and branch generate the most total revenue?
 
-Which branches sold more products than the average across all branches?
+Which branche sold more products than the average across all branches?
 
 ## Product Performance
 
