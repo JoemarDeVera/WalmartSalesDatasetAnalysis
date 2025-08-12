@@ -83,8 +83,6 @@ What is the most common customer type?
 
 What is the best average rating per day of the week?
 
-Which day of the week has the best average ratings per branch?
-
 What is the average customer rating per branch by time of day?
 
 Which time of day does each branch receive the most customer ratings?
